@@ -1,0 +1,12 @@
+table{
+    font-family: Helvetica,monospace;
+    border-collapse: collapse;
+    border-width   : 1px;
+    border-style   : solid;
+      border-color   : #dc143c;
+
+}
+
+th{
+    color:#dc143c;
+    font-family:sans-serif;
